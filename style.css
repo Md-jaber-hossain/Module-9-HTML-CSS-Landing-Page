@@ -96,9 +96,9 @@ hr{
 }
 .blog{
     display: flex;
-    flex-direction: column;
+    /* flex-direction: column;
     justify-content: center;
-    align-items: center;
+    align-items: center; */
 }
 .top-blogs .thumbnail img{
     width: 177px;
